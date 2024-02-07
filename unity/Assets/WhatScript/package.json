@@ -1,0 +1,13 @@
+{
+  "name": "com.lampertandsons.whatscript",
+  "version": "1.0.0",
+  "description": "No more guess work when you encounter missing scripts! Find out exactly what script was used on a component, not just that it's missing.",
+  "displayName": "WhatScript",
+  "unity": "2018.1",
+  "documentationUrl": "https://www.lampertandsons.com",
+  "keywords": [
+    "script",
+    "missing",
+    "git"
+  ]
+}
